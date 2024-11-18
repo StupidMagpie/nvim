@@ -33,6 +33,7 @@ return require('packer').startup(function(use)
           'nvim-tree/nvim-web-devicons',
       }
   }
+  use 'olimooris/onedarkpro.nvim'
   use 'neovim/nvim-lspconfig'
   use 'nvim-lua/completion-nvim'
   use 'anott03/nvim-lspinstall'

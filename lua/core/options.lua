@@ -24,4 +24,4 @@ opt.termguicolors = true
 opt.signcolumn = "yes"
 
 -- 主题 --
-vim.cmd("colorscheme nightfox")
+vim.cmd("colorscheme onedark")
